@@ -1,4 +1,13 @@
-### Hi there 👋
+<p align="center">
+👋
+  <samp>
+    <a href="https://Daydreamer-riri.me">me</a> .
+    <a href="https://daydreamer-riri.me/posts/">blog</a> .
+    <a href="https://daydreamer-riri.me/projects/">projects</a> .
+    <a href="mailto:Daydreamerriri@outlook.com">email</a> .
+    <a href="https://www.instagram.com/daydreamer_riri">instagram</a>
+  </samp>
+</p>
 
 <!--
 **Daydreamer-riri/Daydreamer-riri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
