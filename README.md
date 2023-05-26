@@ -5,7 +5,7 @@
     <a href="https://daydreamer-riri.me/posts/">blog</a> .
     <a href="https://daydreamer-riri.me/projects/">projects</a> .
     <a href="mailto:Daydreamerriri@outlook.com">email</a> .
-    <a href="https://www.instagram.com/daydreamer_riri">instagram</a>
+    <a href="https://www.instagram.com/daydreamer_riri">instagram</a> .
     <a href="https://bento.me/riri">bento</a>
   </samp>
 </p>
