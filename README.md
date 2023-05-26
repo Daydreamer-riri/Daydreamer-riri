@@ -1,4 +1,4 @@
-<p align="center">
+<p>
 👋
   <samp>
     <a href="https://Daydreamer-riri.me">me</a> .
@@ -6,9 +6,11 @@
     <a href="https://daydreamer-riri.me/projects/">projects</a> .
     <a href="mailto:Daydreamerriri@outlook.com">email</a> .
     <a href="https://www.instagram.com/daydreamer_riri">instagram</a>
+    <a href="https://bento.me/riri">bento</a>
   </samp>
 </p>
 
+📌 shanghai, China
 <!--
 **Daydreamer-riri/Daydreamer-riri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
